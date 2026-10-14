@@ -1,0 +1,13 @@
+com\example\food_recipe_backend\config\CorsConfig.class
+com\example\food_recipe_backend\entity\Rating.class
+com\example\food_recipe_backend\repository\RecipeRepository.class
+com\example\food_recipe_backend\controller\RecipeController.class
+com\example\food_recipe_backend\entity\SavedRecipe.class
+com\example\food_recipe_backend\repository\UserRepository.class
+com\example\food_recipe_backend\repository\RatingRepository.class
+com\example\food_recipe_backend\entity\User.class
+com\example\food_recipe_backend\entity\Recipe.class
+com\example\food_recipe_backend\service\RecipeService.class
+com\example\food_recipe_backend\repository\SavedRecipeRepository.class
+com\example\food_recipe_backend\controller\UserController.class
+com\example\food_recipe_backend\config\DataLoader.class

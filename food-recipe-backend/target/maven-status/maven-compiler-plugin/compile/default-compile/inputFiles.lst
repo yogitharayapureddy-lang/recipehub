@@ -1,0 +1,17 @@
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\config\CorsConfig.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\config\DataLoader.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\config\SecurityConfig.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\controller\RecipeController.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\controller\UserController.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\entity\Rating.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\entity\Recipe.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\entity\SavedRecipe.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\entity\User.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\FoodRecipeBackendApplication.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\repository\RatingRepository.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\repository\RecipeRepository.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\repository\SavedRecipeRepository.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\repository\UserRepository.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\security\JwtAuthenticationFilter.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\security\JwtService.java
+D:\FULL_STACK_PRO\food-recipe-backend\src\main\java\com\example\food_recipe_backend\service\RecipeService.java
